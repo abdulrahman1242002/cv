@@ -1,0 +1,134 @@
+body{
+  font-family: Montserrat;
+}
+
+/* Title */
+#title{
+color: #fff;
+background-color: #000;
+}
+
+.container-fluid{
+  padding: 5% 10%;
+  text-align: center;
+font-family: 'Lilita One', cursive;
+}
+
+.navbar{
+  margin: 0 5% 5% 5%;
+}
+
+.navbar-brand{
+  font-weight:bold;
+font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.nav-item{
+font-family: 'Lilita One', cursive;
+margin: 0 0.7rem;
+font-size: 1.2rem;
+}
+
+.download-button{
+  margin: 2% 1%;
+}
+
+.heading-img{
+width: 15rem;
+}
+
+
+@media (max-width:893px) {
+.heading-text{
+  font-size: 1.8rem;
+}
+  }
+
+/* Feature */
+#feature{
+  text-align: center;
+  padding: 8% 8%;
+}
+
+.icon:hover{
+  color: red;
+}
+
+.header-freature{
+
+font-weight: bold;
+}
+
+.body-feature{
+font-size: 1.2rem;
+}
+
+.icon{
+  font-size: 3.2rem;
+  margin: 0.8rem;
+}
+
+/* Trails */
+
+#trails{
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+  padding: 6% 8%;
+}
+
+.free-slide{
+font-size: 2.6rem;
+}
+
+.vip-slide{
+  color: gold;
+  font-size: 2.5rem;
+}
+
+.free-img{
+height: 16rem;
+}
+
+.vip-img{
+width: 20rem;
+}
+
+/* cta section */
+#cta{
+  text-align: center;
+padding: 6% 8%;
+}
+
+.cta-header{
+  margin-bottom: 3rem;
+}
+
+.cash1:hover{
+  background-color: blue;
+}
+
+.cash2:hover{
+  background-color: #000;
+}
+.cash3:hover{
+  background-color: gold;
+}
+
+/* Footer */
+#footer{
+  color: #fff;
+  text-align: center;
+  background-color: #000;
+  padding: 7% 15%;
+}
+
+.social{
+  font-size: 2rem;
+  margin: 2% 1.5%;l
+
+}
+
+.footer-text{
+  font-size: 1rem;
+}
